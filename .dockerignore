@@ -1,0 +1,8 @@
+.temp/
+.cache/
+.vscode/
+.elasticbeanstalk/
+.git/
+build/
+node_modules/
+data/
